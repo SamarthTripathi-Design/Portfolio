@@ -52,7 +52,7 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav_item">
-              <Link to="/qualifications" className="nav__link">
+              <Link to="qualifications" className="nav__link">
                 <div className="nav__icon">
                   <PersonOutlinedIcon />
                 </div>
@@ -60,7 +60,7 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav_item">
-              <Link to="/skills" className="nav__link">
+              <Link to="skills" className="nav__link">
                 <div className="nav__icon">
                   <DescriptionOutlinedIcon />
                 </div>
@@ -68,7 +68,7 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav_item">
-              <Link to="/contact" className="nav__link">
+              <Link to="contact" className="nav__link">
                 <div className="nav__icon">
                   <MailOutlineOutlinedIcon />
                 </div>

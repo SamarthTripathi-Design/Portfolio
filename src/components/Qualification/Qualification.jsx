@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import "./Qualification.css";
-import CalendarMonthOutlinedIcon from "@mui/icons-material/CalendarMonthOutlined";
+import "./qualification.css";
 import BusinessCenterOutlinedIcon from "@mui/icons-material/BusinessCenterOutlined";
 import SchoolOutlinedIcon from "@mui/icons-material/SchoolOutlined";
 

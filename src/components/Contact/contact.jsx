@@ -2,7 +2,7 @@ import React from "react";
 import "./contact.css";
 import EmailOutlinedIcon from "@mui/icons-material/EmailOutlined";
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
-import FacebookIcon from "@mui/icons-material/Facebook";
+import SpeakerNotesIcon from "@mui/icons-material/SpeakerNotes";
 import ArrowForwardOutlinedIcon from "@mui/icons-material/ArrowForwardOutlined";
 import SendRoundedIcon from "@mui/icons-material/SendRounded";
 
@@ -40,7 +40,7 @@ const contact = () => {
 
             <div className="contact__card">
               <div className="contact__card-icon">
-                <FacebookIcon fontSize="large" />
+                <SpeakerNotesIcon fontSize="large" />
               </div>
               <h3 className="contact__card-title">Messenger</h3>
               <span className="contact__card-data">user.fb123</span>
