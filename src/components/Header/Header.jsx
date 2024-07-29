@@ -7,7 +7,6 @@ import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
 import PersonOutlinedIcon from "@mui/icons-material/PersonOutlined";
 import DescriptionOutlinedIcon from "@mui/icons-material/DescriptionOutlined";
 import MailOutlineOutlinedIcon from "@mui/icons-material/MailOutlineOutlined";
-import PhotoOutlinedIcon from "@mui/icons-material/PhotoOutlined";
 import WbSunnyRoundedIcon from "@mui/icons-material/WbSunnyRounded";
 import NightlightIcon from "@mui/icons-material/Nightlight";
 
